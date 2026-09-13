@@ -42,12 +42,9 @@ The preparation process included reviewing the dataset for data quality issues, 
 
 | KPI | Result |
 |---|---:|
-| Total Cost | $1,862,696,000 		
- |
-| Total Revenue | $2,328,370,000 		
- |
-| Total Profit |  $465,674,000 		
- |
+| Total Cost | $1,862,696,000 |
+| Total Revenue | $2,328,370,000 |
+| Total Profit | $465,674,000 |
 | Total Customers | 2,098 |
 
 ## Dashboard
