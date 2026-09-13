@@ -14,12 +14,11 @@ The analysis was designed to answer the following business questions:
 
 - What is the overall revenue generated?
 - What is the total cost and profit?
-- Which products generate the highest profit?
+- Which top 5 products generate the highest profit?
 - Which sales representatives generate the highest revenue?
 - Which cities have the highest costs?
-- How does customer activity change over time?
-- How do different regions perform?
-- How do product categories contribute to overall performance?
+- Which Month has the worst Performance?
+- What are the KPIs?
 
 ## Tools & Skills
 
@@ -37,16 +36,20 @@ The analysis was designed to answer the following business questions:
 
 The dataset was cleaned and prepared in Microsoft Excel before analysis.
 
-The preparation process included reviewing the dataset for data quality issues, organizing the data into a structured format, validating fields, and preparing the dataset for PivotTable and visualization analysis.
+The preparation process included reviewing the dataset for data quality issues, organizing the data into a structured format, and preparing the dataset for PivotTable and visualization analysis.
 
 ## Key Performance Indicators
 
 | KPI | Result |
 |---|---:|
-| Total Cost | $2,174,445 |
-| Total Revenue | $3,106,350 |
-| Total Profit | $931,905 |
-| Total Customers | 250 |
+| Total Cost | $1,862,696,000 		
+ |
+| Total Revenue |  $2,328,370,000 		
+ |
+| Total Profit | $465,674,000 		
+ |
+| Total Customers |  2,098		
+ |
 
 ## Dashboard
 
@@ -61,7 +64,6 @@ The project analyzes sales performance across:
 - Regions
 - Cities
 - Sales Representatives
-- Customer Types
 - Sales Channels
 - Monthly Customer Activity
 
