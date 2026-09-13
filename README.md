@@ -67,19 +67,33 @@ The project analyzes sales performance across:
 
 ## Key Insights
 
-The analysis provides insights into product profitability, sales representative performance, regional performance, city-level costs, and customer activity.
+The analysis revealed the following key business insights:
 
-These findings can help management identify high-performing areas, monitor costs, improve sales strategies, and allocate resources more effectively.
+- **Overall Performance:** The business generated **$2.33B in total revenue** and **$465.67M in total profit**, representing an approximate **20.0% profit margin**.
+
+- **Sales Representative Performance:** **Peter** generated the highest revenue at **$434.81M**, while **Grace** recorded the lowest among the sales representatives at **$367.84M**.
+
+- **Product Profitability:** **Laptop A13** was the highest-profit product at **$105.34M**, followed by **Sofa Classic ($69.25M)** and **Desktop PC D21 ($68.64M)**.
+
+- **Cost Analysis by City:** **Lagos** recorded the highest Cost of Goods Sold (COGS) at **$493.81M**, followed by **Kano ($486.79M)**.
+
+- **Customer Trend:** Monthly customer volume remained relatively stable from January through April, before showing a sharp decline in May. This may require further investigation into sales activity, customer acquisition, or data completeness for the period.
+
+- **Cost and Profit:** Total COGS was **$1.86B**, highlighting the importance of monitoring operating costs while maintaining revenue growth and product profitability.
 
 ## Business Recommendations
 
-Based on the analysis, organizations can:
+Based on these findings, the following actions are recommended:
 
-- Focus resources on high-performing products and sales representatives.
-- Review underperforming products and regions.
-- Monitor cost-intensive cities and operational areas.
-- Identify opportunities to improve customer engagement.
-- Use sales performance trends to support future planning and decision-making.
+1. Investigate the factors contributing to the strong performance of **Laptop A13** and consider strategies to maintain or increase its sales.
+
+2. Analyze the practices of the highest-performing sales representatives and identify opportunities to improve the performance of lower-performing representatives.
+
+3. Review the high COGS recorded in **Lagos and Kano** to identify potential opportunities for cost reduction.
+
+4. Investigate the significant decline in monthly customers recorded in **May** before making operational decisions.
+
+5. Continue monitoring revenue, COGS, profit, and customer trends through regular dashboard reporting.
 
 ## Project Files
 
