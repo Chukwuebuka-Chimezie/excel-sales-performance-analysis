@@ -54,6 +54,8 @@ The preparation process included reviewing the dataset for data quality issues, 
 
 The final dashboard presents key sales performance metrics and visualizations developed using Excel PivotTables and PivotCharts.
 
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+
 ## Key Analysis
 
 The project analyzes sales performance across:
